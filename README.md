@@ -14,7 +14,8 @@
  1. [Basic Info](#BasicInfo)
  2. [Course Duration](#CourseDuration)
  3. [Program Info](#ProgInfo)
- 4. [Course Syllabus](#CourseSyllabus)
+ 4. [Program FAQs](#FAQs)
+ 5. [Course Syllabus](#CourseSyllabus)
     - [Stage-1](#stage1)
     - [Stage-2](#stage2)
     - [Stage-3](#stage3)
@@ -40,9 +41,10 @@ In Our Understanding the students of matriculation should be trained separately.
 ![Program Schedule](https://github.com/ZafarBukhari/LearnAIwithIrfanMalik/blob/main/programinfoposter1.jpg)
 
 
-<!-- ## Program FAQs:
-![Program Info](https://www.youtube.com/watch?v=_6zP4qtIC3Y)
- -->
+## Program FAQs: <a name="FAQs"></a>
+To know Program FAQs, please [Click Here to Watch the Video](https://www.youtube.com/watch?v=_6zP4qtIC3Y)
+
+
 ## Syllabus of the Course: <a name="CourseSyllabus"></a>
 ### Stage-1: Introduction with the Tools days(3 to 4): <a name="stage1"></a>
   - Introduction to Chat Gpt and Interaction with it.
