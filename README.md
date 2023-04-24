@@ -38,12 +38,11 @@ In Our Understanding the students of matriculation should be trained separately.
 1st hour instructor will teach/demonstrate. The instructor will conduct a practice session on the lecture. At last the a small evaluation will be conducted. 
 
 ## Program Info: <a name="ProgInfo"></a>
-![Program Info](https://user-images.githubusercontent.com/21336372/233968764-ed1e4e7d-0916-4ff9-bb23-ee176858ed08.jpg)
-
-
+![Program Info](https://user-images.githubusercontent.com/21336372/233968764-ed1e4e7d-0916-4ff9-bb23-ee176858ed08.jpg) 
+ 
 ## Program FAQs: <a name="FAQs"></a>
-To know Program FAQs, please [Click Here to Watch the Video](https://www.youtube.com/watch?v=_6zP4qtIC3Y)
-
+To know the Program FAQs, please watch this video:<br/>
+[![Watch Video](https://img.youtube.com/vi/_6zP4qtIC3Y/0.jpg)](https://www.youtube.com/watch?v=6zP4qtIC3Y)
 
 ## Syllabus of the Course: <a name="CourseSyllabus"></a>
 ### Stage-1: Introduction with the Tools days(3 to 4): <a name="stage1"></a>
