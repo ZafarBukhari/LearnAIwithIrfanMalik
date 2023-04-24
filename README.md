@@ -1,13 +1,12 @@
 <!-- # Learn AI with Irfan Malik -->
-<DIV align=center>
+<DIV>
   <h3>DISCLAIMER</h3>
   <p>It is clearly mentioned that this page is not designed / published by Sir Irfan Malik.<br/> I am a prospect student of Sir Irfan Malik and I published the syllabus and other <br/> relevant contents / links of the contents for guidance of fellow students.</p>
 </DIV>
 <hr>
 
 
-
-<p align="center">Let's Join the Artificial Intelligence Drive initiated by Sir Irfan Malik to equip <br/> the less developed or even the under developed areas of Pakistan with the <br/> cutting edge technologies of the era i.e. Artificial Intelligence.</p><hr>
+<p>Let's Join the Artificial Intelligence Drive initiated by Sir Irfan Malik to equip <br/> the less developed or even the under developed areas of Pakistan with the <br/> cutting edge technologies of the era i.e. Artificial Intelligence.</p><hr>
 
 ### Table of Contents:
 
