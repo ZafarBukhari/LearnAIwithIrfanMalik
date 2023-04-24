@@ -9,27 +9,35 @@
 
 <h4 align="center">Let's Join the Artificial Intelligence Drive initiated by Sir Irfan Malik to equip </br> the less developed or even the under developed areas of Pakistan with the </br> cutting edge technologies of the era i.e. Artificial Intelligence.</h4><hr>
 
+### Table of Contents:
+
+ 1. [Basic Info](#BasicInfo)
+ 2. [Course Duration](#CourseDuration)
+ 3. [Program Info](#ProgInfo)
+ 4. [Course Syllabus](#CourseSyllabus)
+
+
 ## From HOPE to SKILLS:
 Special thanks and lots of prayers for the driving force behind the initiative Professor Dr Javed Iqbal Dr Azhar Aslam Sheraz Naseer Xeven Solutions
 
-## Basic Information:
+## Basic Information: <a name="BasicInfo"></a>
 The number may vary from 20 to 30 
 The level of student is matriculation and Bachelors
 In Our Understanding the students of matriculation should be trained separately. As they are blank about the technology on the other hand the Bachelors students have background it will create an imbalance environment.
 
-## Duration of Each Session (3 to 4 hours):
+## Duration of Each Session (3 to 4 hours): <a name="CourseDuration"></a>
 1st hour instructor will teach/demonstrate. The instructor will conduct a practice session on the lecture. At last the a small evaluation will be conducted. 
 
-## Program Info:
-![Program Schedule](https://github.com/ZafarBukhari/LearnAIwithIrfanMalik/blob/c93fcc1c1a95e061bad934dd6d81f16039465632/Learn%20AI%20with%20Sir%20Irfan%20Malik.jpg))
+## Program Info: <a name="ProgInfo"></a>
+![Program Schedule](https://github.com/ZafarBukhari/LearnAIwithIrfanMalik/blob/c93fcc1c1a95e061bad934dd6d81f16039465632/Learn%20AI%20with%20Sir%20Irfan%20Malik.jpg)
 </br>
 
 
 <!-- ## Program FAQs:
-![Program FAQs](https://www.youtube.com/watch?v=_6zP4qtIC3Y)
+![Program Info](https://www.youtube.com/watch?v=_6zP4qtIC3Y)
  -->
-## Syllabus of the Course:
-### Stage-1: Introduction with the Tools days(3 to 4):
+## Syllabus of the Course: <a name="CourseSyllabus"></a>
+### Stage-1: Introduction with the Tools days(3 to 4):<a name="stage1"></a>
   - Introduction to Chat Gpt and Interaction with it.
   - Introduction to Dall-E and interaction with it.
   - Introduction to Stable Diffusion and interaction with it
