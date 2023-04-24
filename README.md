@@ -11,10 +11,11 @@
 ### Table of Contents:
 
  1. [Basic Info](#BasicInfo)
- 2. [Course Duration](#CourseDuration)
- 3. [Program Info](#ProgInfo)
- 4. [Program FAQs](#FAQs)
- 5. [Course Syllabus](#CourseSyllabus)
+ 2. [Official Course Resources](#resources)
+ 3. [Course Duration](#CourseDuration)
+ 4. [Program Info](#ProgInfo)
+ 5. [Program FAQs](#FAQs)
+ 6. [Course Syllabus](#CourseSyllabus)
     - [Stage-1](#stage1)
     - [Stage-2](#stage2)
     - [Stage-3](#stage3)
@@ -24,7 +25,6 @@
     - [Stage-7](#stage7)
 
 
-
 ## From HOPE to SKILLS:
 Special thanks and lots of prayers for the driving force behind the initiative Professor Dr Javed Iqbal Dr Azhar Aslam Sheraz Naseer Xeven Solutions
 
@@ -32,6 +32,15 @@ Special thanks and lots of prayers for the driving force behind the initiative P
 The number may vary from 20 to 30 
 The level of student is matriculation and Bachelors
 In Our Understanding the students of matriculation should be trained separately. As they are blank about the technology on the other hand the Bachelors students have background it will create an imbalance environment.
+
+## Official Course Resources <a name="resources"></a>
+You can access official Resources for this life changeing course:<br/>
+  - Please click here to visit [YouTube Channel](https://www.youtube.com/@muhammadirfanmalik)
+  - Please Follow this [Facebook Page](https://www.facebook.com/iamirfansaeedmalik)
+  - Please Follow this [Instagram Link](https://www.instagram.com/iamirfanmalikofficial/)
+  - Please Follow at [Linkedin](https://www.linkedin.com/in/muhammadirfanmalik/)
+  
+
 
 ## Duration of Each Session (3 to 4 hours): <a name="CourseDuration"></a>
 1st hour instructor will teach/demonstrate. The instructor will conduct a practice session on the lecture. At last the a small evaluation will be conducted. 
