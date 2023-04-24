@@ -16,12 +16,12 @@
  3. [Program Info](#ProgInfo)
  4. [Course Syllabus](#CourseSyllabus)
     - [Stage-1](#stage1)
-    - [Stage-1](#stage2)
-    - [Stage-1](#stage3)
-    - [Stage-1](#stage4)
-    - [Stage-1](#stage5)
-    - [Stage-1](#stage6)
-    - [Stage-1](#stage7)
+    - [Stage-2](#stage2)
+    - [Stage-3](#stage3)
+    - [Stage-4](#stage4)
+    - [Stage-5](#stage5)
+    - [Stage-6](#stage6)
+    - [Stage-7](#stage7)
 
 
 
