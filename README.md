@@ -7,7 +7,7 @@
 
 
 
-<h4 align="center">Let's Join the Artificial Intelligence Drive initiated by Sir Irfan Malik to equip </br> the less developed or even the under developed areas of Pakistan with the </br> cutting edge technologies of the era i.e. Artificial Intelligence.</h4><hr>
+<p align="center">Let's Join the Artificial Intelligence Drive initiated by Sir Irfan Malik to equip </br> the less developed or even the under developed areas of Pakistan with the </br> cutting edge technologies of the era i.e. Artificial Intelligence.</p><hr>
 
 ### Table of Contents:
 
