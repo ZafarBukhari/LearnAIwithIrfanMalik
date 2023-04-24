@@ -8,6 +8,9 @@
 
 <p>Let's Join the Artificial Intelligence Drive initiated by Sir Irfan Malik to equip the less developed or even the under developed areas of Pakistan with the cutting edge technologies of the era i.e. Artificial Intelligence.</p><hr>
 
+## From HOPE to SKILLS:
+Special thanks and lots of prayers for the driving force behind the initiative Professor Dr Javed Iqbal Dr Azhar Aslam Sheraz Naseer Xeven Solutions<hr>
+
 ### Table of Contents:
 
  1. [Basic Info](#BasicInfo)
@@ -24,9 +27,6 @@
     - [Stage-6](#stage6)
     - [Stage-7](#stage7)
 
-
-## From HOPE to SKILLS:
-Special thanks and lots of prayers for the driving force behind the initiative Professor Dr Javed Iqbal Dr Azhar Aslam Sheraz Naseer Xeven Solutions
 
 ## Basic Information: <a name="BasicInfo"></a>
 The number may vary from 20 to 30 
