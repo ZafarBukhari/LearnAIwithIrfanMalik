@@ -37,7 +37,7 @@ In Our Understanding the students of matriculation should be trained separately.
 1st hour instructor will teach/demonstrate. The instructor will conduct a practice session on the lecture. At last the a small evaluation will be conducted. 
 
 ## Program Info: <a name="ProgInfo"></a>
-![Program Schedule](https://github.com/ZafarBukhari/LearnAIwithIrfanMalik/blob/063942b66b86feb1732f7e2a396b82d21b5a5116/programinfoposter1.jpg)
+![Program Schedule](https://github.com/ZafarBukhari/LearnAIwithIrfanMalik/blob/main/programinfoposter1.jpg)
 
 
 <!-- ## Program FAQs:
