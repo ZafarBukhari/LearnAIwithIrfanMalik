@@ -15,6 +15,14 @@
  2. [Course Duration](#CourseDuration)
  3. [Program Info](#ProgInfo)
  4. [Course Syllabus](#CourseSyllabus)
+    - [Stage-1](#stage1)
+    - [Stage-1](#stage2)
+    - [Stage-1](#stage3)
+    - [Stage-1](#stage4)
+    - [Stage-1](#stage5)
+    - [Stage-1](#stage6)
+    - [Stage-1](#stage7)
+
 
 
 ## From HOPE to SKILLS:
@@ -36,14 +44,14 @@ In Our Understanding the students of matriculation should be trained separately.
 ![Program Info](https://www.youtube.com/watch?v=_6zP4qtIC3Y)
  -->
 ## Syllabus of the Course: <a name="CourseSyllabus"></a>
-### Stage-1: Introduction with the Tools days(3 to 4):<a name="stage1"></a>
+### Stage-1: Introduction with the Tools days(3 to 4): <a name="stage1"></a>
   - Introduction to Chat Gpt and Interaction with it.
   - Introduction to Dall-E and interaction with it.
   - Introduction to Stable Diffusion and interaction with it
   - Guideline about prompting.
   - At Initial stage the students should interact with Open.ai tools like Chat GPT and DALL-E-2. This will greatly develop their interest and help them understand the products better. From this they will also learn the prompting which will help them later.
 
-### Stage 2: Basics of python  days(20 to 30):
+### Stage 2: Basics of python  days(20 to 30): <a name="stage2"></a>
   - Installing the IDE and Making Environments
   - Basic Variables
   - Data types
@@ -62,7 +70,7 @@ In Our Understanding the students of matriculation should be trained separately.
   - Code practise with Chat GPT
   - Stage Evaluation
 
-### Stage 3: Basics of ML days (5 to 6):
+### Stage 3: Basics of ML days (5 to 6): <a name="stage3"></a>
   - Introduction the Machine Learning
   - Supervised Learning
   - Video demo
@@ -91,7 +99,7 @@ In Our Understanding the students of matriculation should be trained separately.
   - Recall 
   - Stage Evaluation
 
-### Stage 4: Basics of API  days(10 to 15):
+### Stage 4: Basics of API  days(10 to 15): <a name="stage4"></a>
   - Introduction to API
   - Basics of API 
   - Open.ai API
@@ -101,7 +109,7 @@ In Our Understanding the students of matriculation should be trained separately.
   - Stage Project 2: (Image Generation Project)
   - Stage Evaluation
 
-### Stage 5: Basics of ML frame work days (20 to 30):
+### Stage 5: Basics of ML frame work days (20 to 30): <a name="stage5"></a>
   - Understanding of Scikit-learn for Machine Learning Models
   - Working with Structured Data (ETL Pipeline) Using Scikit-Learn
   - Data Cleaning (Missing Values and Outliers)
@@ -117,7 +125,7 @@ In Our Understanding the students of matriculation should be trained separately.
   - Creating Recommender System (Content Based and Collaborative Filtering based)
   - Stage Project
 
-### Stage 6: Basics of Data Visualisations  days (5 to 7):
+### Stage 6: Basics of Data Visualisations  days (5 to 7): <a name="stage6"></a>
   - Basic concepts of Matplotlib
   - Introduction to Visualisations
   - Line plot
@@ -130,7 +138,7 @@ In Our Understanding the students of matriculation should be trained separately.
   - Creating Visualisations using Plotly
   - Stage Evaluation
 
-### Stage 7: Introduction to Hugging Face  days (10 to 15):
+### Stage 7: Introduction to Hugging Face  days (10 to 15): <a name="stage7"></a>
   - Introduction to Hugging Face 
   - Installation and Setup
   - Text Classification using Pipelines
