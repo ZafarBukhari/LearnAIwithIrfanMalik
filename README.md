@@ -30,7 +30,6 @@ In Our Understanding the students of matriculation should be trained separately.
 
 ## Program Info: <a name="ProgInfo"></a>
 ![Program Schedule](https://github.com/ZafarBukhari/LearnAIwithIrfanMalik/blob/063942b66b86feb1732f7e2a396b82d21b5a5116/programinfoposter1.jpg)
-</br>
 
 
 <!-- ## Program FAQs:
