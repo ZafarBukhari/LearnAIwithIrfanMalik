@@ -42,7 +42,7 @@ In Our Understanding the students of matriculation should be trained separately.
  
 ## Program FAQs: <a name="FAQs"></a>
 To know the Program FAQs, please watch this video:<br/>
-[![Watch Video](https://img.youtube.com/vi/_6zP4qtIC3Y/0.jpg)](https://www.youtube.com/watch?v=_6zP4qtIC3Y)
+[![](https://img.youtube.com/vi/_6zP4qtIC3Y/0.jpg)](https://www.youtube.com/watch?v=_6zP4qtIC3Y)
 
 ## Syllabus of the Course: <a name="CourseSyllabus"></a>
 ### Stage-1: Introduction with the Tools days(3 to 4): <a name="stage1"></a>
